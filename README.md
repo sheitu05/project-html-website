@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/Harshita0987/DevTestPrac/_apis/build/status/sheitu05.project-html-website?branchName=master)](https://dev.azure.com/Harshita0987/DevTestPrac/_build/latest?definitionId=1&branchName=master)
+
 # This repo is no longer used. Please see  https://github.com/microsoft/devops-project-samples for samples of Azure DevOps Project
 
 | Language | Platform | Author |
